@@ -10,4 +10,7 @@ i6155906
 - versatile model that can be used for various tasks
 - quick - only up to 40 mins of training on K80
 ## Results
+![Screenshot](results_table.png)
 ## Future work
+- BERT - Feature-based approach
+- BERT with User Embeddings based on Kolchinski et al., 2018
