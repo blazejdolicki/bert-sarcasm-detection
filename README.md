@@ -12,3 +12,5 @@ i6155906
 ## Results
 ![Screenshot](results_table.png)
 ## Future work
+- BERT - Feature-based approach
+- BERT with User Embeddings based on Kolchinski et al., 2018
