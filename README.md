@@ -1,1 +1,3 @@
-# bert_sarcasm_detection
+# BERT Sarcasm Detection
+Błażej Dolicki
+i6155906
