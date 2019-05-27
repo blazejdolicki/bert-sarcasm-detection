@@ -10,4 +10,5 @@ i6155906
 - versatile model that can be used for various tasks
 - quick - only up to 40 mins of training on K80
 ## Results
+![Screenshot](results_table.png)
 ## Future work
